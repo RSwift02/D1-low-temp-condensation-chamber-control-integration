@@ -1,0 +1,3 @@
+backend: TkAgg
+connected to 127.0.0.1:8777
+first sample received, channels=['amb', 'ch0', 'duty', 'tCav']

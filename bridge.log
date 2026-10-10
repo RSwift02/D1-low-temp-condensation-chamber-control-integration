@@ -1,0 +1,10 @@
+listening on 127.0.0.1:8777 | logging to run.jsonl | run:  python serial_plot.py
+opened /dev/cu.usbmodemF412FA6F4F3C2 at 115200 baud
+guard: no plotter for 8s -> release /dev/cu.usbmodemF412FA6F4F3C2 (use --exit-after 0 to disable)
+plotter connected (1 total)
+lines=1 | parsed=1 | skipped=0
+plotter disconnected
+lines=2 | parsed=2 | skipped=0
+no plotter for 8s, releasing /dev/cu.usbmodemF412FA6F4F3C2 so Arduino IDE can use it
+
+lines=2 | parsed=2 | skipped=0
